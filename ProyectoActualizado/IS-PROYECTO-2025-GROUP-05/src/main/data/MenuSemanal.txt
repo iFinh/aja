@@ -1,0 +1,5 @@
+Lunes,Desayuno,pouta,pouta,pouta,pouta,pouta
+Lunes,Almuerzo,mal,mal,mal,mal,mal
+Miércoles,Almuerzo,fuck,fuck,fuck,fuck,fuck
+Martes,Desayuno,fuck,fuck,fuck,fuck,fuck
+Jueves,Almuerzo,lkoola,lkoola,lkoola,lkoola,lkoola

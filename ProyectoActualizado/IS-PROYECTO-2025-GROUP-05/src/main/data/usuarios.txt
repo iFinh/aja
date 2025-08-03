@@ -1,0 +1,7 @@
+30212327,123456,236.45,maria peres,estudiante,fotico.png,false,false
+567890,654321,60.00,ronaldo antonio,trabajador,foton.png,false,false
+13122332,987654,63.70,jose antonio,estudiante,fototeta.jpg,false,false
+23094212,12345678,58.25,claudia isabela,estudiante,foticho.png,false,false
+900000,1234567,3.65,sofia vergara,trabajador,pasticho.jpg,false,false
+30212326,123456,0.0,angel marico,estudiante,ByMorandi.png,false,false
+31187193,123456,0.0,miguel patiño,trabajador,foton.png,false,false
